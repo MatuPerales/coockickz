@@ -1,0 +1,23 @@
+.carrusel{
+    height: 350px;
+    width: 650px;
+    margin-left: 27%;
+        &c1{
+            margin-left: 25%;
+            display: flex;
+            justify-content: initial;
+            padding: 10px;
+        }
+        &c2{
+            margin-left: 28%;
+            display: flex;
+            justify-content: initial;
+            padding: 10px;
+        }
+        &c3{
+            margin-left: 23%;
+            display: flex;
+            justify-content: initial;
+            padding: 10px;
+        }
+}
